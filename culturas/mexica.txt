@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang= "es">
+   <head>
+      <meta charset="UTD-8">
+       <title>cultura maya</title>
+    <style>
+p {font-size: 30px; color: black;}
+</style>
+<body>
+<p> <center>CULTURA MIXTECA</p></center>
+<center><IMG SRC="culturamixteca.jpg" alt-"Dibujo  WIDTH="1300" HEIGHT="400"></center>
+<p> La cultura mixteca o civilización mixteca fue una de las más antiguas culturas precolombinas mesoamericanas, antecesora del actual pueblo mixteca mexicano. Floreció al sur del actual territorio de México. Su época de esplendor terminó en el siglo X, pero el pueblo mixteca sobrevivió hasta su encuentro con los conquistadores españoles en el siglo XV. </p>
+<p>​ La cultura mixteca compartió muchos rasgos con sus vecinos zapotecos, junto a quienes se llamaban a sí mismos como “pueblo de la lluvia”. Sin embargo, cada una de estas culturas emprendió su camino distinto, a medida que se integraban a la compleja red de relaciones panmesoamericanas de la época. </p>
+<p> <center> UBICACIÓN DE LA CULTURA MIXTECA </center> </p>
+<p> La cultura mixteca ocupó durante su historia el territorio conocido como La Mixteca (Ñuu Dzahui, en su lengua, “País de la lluvia”), ubicado en el sur de México, en el territorio de los actuales estados de Puebla, Oaxaca y Guerrero.
+
+Se trata de una región montañosa, que esta cultura ocupó en dos zonas distintas: la baja (noroeste de Oaxaca y suroeste de Puebla) y la alta (noroeste de Guerrero y oeste de Oaxaca). </p>
+<center><IMG SRC="culturamexica.jpg" alt-"Dibujo  WIDTH="1300" HEIGHT="400"></center>
